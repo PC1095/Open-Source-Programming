@@ -10,3 +10,10 @@ def addition(a, b):
     return a + b
 
 print(addition(5, 3))
+
+
+def subtract(a, b):
+    """Third function"""
+    return a - b
+
+print(subtract(10, 4))
